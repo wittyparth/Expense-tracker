@@ -1,5 +1,5 @@
 {
-  "name": "my-v0-project",
+  "name": "chat-bot",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -62,7 +62,8 @@
     "chart.js": "latest",
     "framer-motion": "latest",
     "react-chartjs-2": "latest",
-    "@nivo/sunburst": "latest"
+    "@nivo/sunburst": "latest",
+    "tailwindcss" : "latest"
   },
   "devDependencies": {
     "@types/node": "^22",

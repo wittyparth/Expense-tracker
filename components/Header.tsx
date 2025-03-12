@@ -30,7 +30,7 @@ export default function Header() {
     { href: "/accounts", label: "Accounts" },
     { href: "/reports", label: "Reports" },
     { href: "/friends", label: "Friends" },
-    { href: "emis", label: "EMI" }
+    { href: "/emis", label: "EMI" }
   ]
 
   return (
